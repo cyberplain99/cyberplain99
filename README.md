@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Sarath Haridas
 
-**CISSP-certified Senior Security Engineer** with 15+ years of experience securing hybrid enterprise environments across **cloud, endpoint, and network infrastructures**.  
-I specialize in **EDR, IAM, cloud security, incident response, and vulnerability management** — delivering measurable risk reduction while enabling innovation in fast-paced environments.
+**CISSP-certified cybersecurity professional** with 15+ years of experience securing complex, hybrid environments across cloud and on-premises infrastructures. Adept at leading global security programs, including vulnerability management, incident response, cloud security posture, and penetration testing. Proven ability to influence cross-functional teams, develop and enforce security policy, and align cybersecurity strategies with business risk. .
 
 ## 🚀 Expertise
 - **Cloud Security**: AWS, Azure, GCP — CIS Benchmark Compliance, CloudSec, Wiz
