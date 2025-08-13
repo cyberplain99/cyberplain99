@@ -5,11 +5,11 @@
 ## 🚀 Expertise
 - **Cloud Security**: AWS, Azure, GCP — CIS Benchmark Compliance, CloudSec, Wiz
 - **Endpoint & Detection Engineering**: CrowdStrike, Rapid7 EDR
-- **Identity & Access Management**: Okta, Azure AD, RBAC, Zero Trust
 - **Network Security**: Fortinet, Palo Alto, VPN, SD-WAN
 - **Vulnerability Management**: Rapid7 InsightVM, AppSec, CVSS Risk Prioritization
 - **Incident Response & Automation**: Playbooks, SOAR integrations, AI-driven SOC GPTs
 - **Compliance & Frameworks**: NIST, ISO 27001, ITSG-33, GDPR
+- **Identity & Access Management**: Okta, Azure AD, RBAC, Zero Trust
 
 ## 📌 Featured Projects
 Here are some of the security-focused repositories I’ve built or contributed to:
