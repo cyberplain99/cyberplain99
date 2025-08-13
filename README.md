@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sarath Haridas
 
-**CISSP-certified cybersecurity professional** with 15+ years of experience securing complex, hybrid environments across cloud and on-premises infrastructures. Adept at leading global security programs, including security architecture, vulnerability management, incident response, cloud security posture, and security solution design. Proven ability to influence cross-functional teams, develop and enforce security policy, and align cybersecurity strategies with business risk. .
+**CISSP-certified cybersecurity professional** with 15+ years of experience securing complex, hybrid environments across cloud and on-premises infrastructures. Adept at leading global security programs, including security architecture, vulnerability management, incident response, cloud security posture and security solution design. Proven ability to influence cross-functional teams, develop and enforce security policy, and align cybersecurity strategies with business risk. .
 
 ## 🚀 Expertise
 - **Cloud Security**: AWS, Azure, GCP — CIS Benchmark Compliance, CloudSec, Wiz
