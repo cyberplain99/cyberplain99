@@ -20,8 +20,8 @@ Here are some of the security-focused repositories I’ve built or contributed t
 ### 🛡️ Cloud Security Compliance Checker
 [**Cloud-CIS-Benchmark**](#) – Terraform and Python-based tool for checking AWS/Azure/GCP configurations against CIS benchmarks.
 
-### ⚡ Incident Response Playbook Generator
-[**IR-Playbook-Automation**](#) – YAML-based playbook templates with automated Jira/SOAR workflow creation.
+### ⚡ Skybox Implementation
+[**Skybox**](#) – Architected and implemented Skybox for a Canadian enterprise, integrating 100% of firewalls and enabling automated rule deployment via firewall assurance, network assurance, and change management modules — improving policy compliance and reducing manual change errors by 60%..
 
 ### 🧠 SOC AI Assistant
 [**SOC-GPT**](#) – Custom GPT model integration for tier-1 SOC triage and enrichment, reducing MTTR by 50%.
