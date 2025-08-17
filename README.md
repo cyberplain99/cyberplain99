@@ -3,7 +3,7 @@
 **CISSP-certified cybersecurity professional** with 15+ years of experience securing complex, hybrid environments across cloud and on-premises infrastructures. Adept at leading global security programs, including security architecture, vulnerability management, incident response, cloud security posture and security solution design. Proven ability to influence cross-functional teams, develop and enforce security policy, and align cybersecurity strategies with business risk. .
 
 ## 🚀 Expertise
-1. Strategic Security Leadership
+1. **Strategic Security Leadership**
 
 Development and enforcement of security strategies, policies, and standards.
 
@@ -11,7 +11,7 @@ Experience aligning cybersecurity with business objectives and compliance framew
 
 Security governance and risk management.
 
-2. Security Architecture & Design
+2. **Security Architecture & Design**
 
 Design and implementation of secure architectures in hybrid and multi-cloud environments.
 
@@ -19,7 +19,7 @@ Reference architectures for Zero Trust, SASE, and cloud-native security.
 
 Secure-by-design principles and threat modeling.
 
-3. Vulnerability & Threat Management
+3. **Vulnerability & Threat Management**
 
 Enterprise-scale vulnerability management (e.g., Rapid7 InsightVM).
 
@@ -27,7 +27,7 @@ Risk prioritization and remediation tracking via KPI dashboards.
 
 Threat detection, incident response playbooks, and continuous exposure management.
 
-4. Cloud & Network Security
+4. **Cloud & Network Security**
 
 Security architecture across AWS, Azure, and GCP.
 
@@ -35,7 +35,7 @@ Deployment of WAFs, NGFWs, and cloud-native security controls.
 
 SD-WAN and network segmentation for distributed environments.
 
-5. Compliance & Frameworks
+5. **Compliance & Frameworks**
 
 Deep familiarity with NIST CSF, NIST SP 800-53, NIST 800-37, CIS Controls and GDPR.
 
@@ -43,7 +43,7 @@ Experience conducting internal audits, DPIAs, and managing vendor risk.
 
 Security documentation and standard development (e.g., incident/vulnerability management standards).
 
-6. Security Operations & Incident Management
+6. **Security Operations & Incident Management**
 
 SOC leadership and coordination.
 
@@ -51,7 +51,7 @@ Playbook development and security operations process optimization.
 
 Automation in incident response workflows (e.g., GPTs to reduce MTTR).
 
-7. Cross-Functional & Client Engagement
+7. **Cross-Functional & Client Engagement**
 
 Advisory experience in Managed Security Service Provider (MSSP) environments.
 
