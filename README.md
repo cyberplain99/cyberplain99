@@ -59,6 +59,8 @@ Leading security initiatives across IT, compliance, and engineering teams.
 
 Client-facing security consulting and solution architecture.
 
+
+
 ## 📌 Featured Projects
 Here are some of the security projects I’ve worked on:
 
@@ -75,7 +77,22 @@ Ensured integration with existing security architecture and incident response wo
 Drove alignment across security operations, compliance, and IT teams, enhancing cross-functional clarity and execution.
 
 
-### 2. Network Segmentation Architecture
+### 2. GPT-Powered Incident Response Automation
+[**GPT-SOC-Automation**](#) – Deployed a custom-trained OpenAI GPT for use in Security Operations. Tailored the model with company-specific data to support incident response and threat analysis workflows, improving MTTR and analyst efficiency. Conducted a Data Protection Impact Assessment (DPIA) aligned with GDPR to introduce generative AI responsibly within SOC operations.
+
+Key Contributions:
+
+Designed and implemented a custom OpenAI GPT to augment SOC processes and response workflows.
+
+Trained the model on proprietary incident data for contextual accuracy and relevance.
+
+Integrated the GPT into SOC workflows to accelerate triage, response playbook execution, and analysis.
+
+Conducted a GDPR-compliant DPIA to ensure legal and ethical use of ChatGPT in operational environments.
+
+Achieved a measurable reduction in Mean Time to Respond (MTTR) and improved SOC analyst effectiveness.
+
+### 3. Network Segmentation Architecture
 [**FortiSeg-NetDesign**](#) – Designed and implemented LAN/WAN network segmentation for a U.S.-based enterprise using FortiGate firewalls. Leveraged FortiAnalyzer for log analysis to validate segmentation strategy, aligning with industry standards to protect critical assets and reduce attack surfaces.
 
 Key Contributions:
@@ -91,7 +108,7 @@ Reduced attack surface and minimized lateral movement across the network.
 Achieved cost and time savings by improving operational efficiency and threat containment.
 
 
-### 3. Skybox Security Platform Deployment
+### 4. Skybox Security Platform Deployment
 [**Skybox-Integration**](#) – Designed and deployed the Skybox Security platform for a Canadian enterprise, integrating firewall assurance, network assurance, and change management modules. Enabled automated firewall rule validation and streamlined change processes across the security infrastructure.
 
 Key Contributions:
@@ -107,7 +124,7 @@ Implemented automated firewall rule checks, reducing manual errors and approval 
 Enhanced overall security governance and operational efficiency in firewall management.
 
 
-### 4. Fortinet SD-WAN Deployment Across 200 Sites
+### 5. Fortinet SD-WAN Deployment Across 200 Sites
 [**FortiSDWAN-Rollout**](#) – Leading the implementation of FortiGate firewalls with SD-WAN for 200+ customer locations. Project focuses on scalable deployment using FortiManager, with successful MPLS replacement delivering significant cost savings.
 
 Key Contributions:
@@ -123,7 +140,7 @@ Enabled the customer to phase out legacy MPLS infrastructure, achieving major op
 Ensured performance optimization and security enforcement across all branch deployments.
 
 
-### 5. Firewall Migration: Cisco ASA to Palo Alto
+### 6. Firewall Migration: Cisco ASA to Palo Alto
 [**ASA-to-PA-Migration**](#) – Led the technical design and implementation of a firewall migration project for a Canadian customer, replacing legacy Cisco ASA firewalls with Palo Alto NGFWs. Project involved in-depth infrastructure analysis, stakeholder coordination, and successful cutover execution.
 
 Key Contributions:
@@ -139,7 +156,7 @@ Executed phased firewall cutovers with minimal downtime and zero security gaps.
 Improved visibility, performance, and rule management through Palo Alto integration.
 
 
-### 6. FortiGate Firewall Hardware Refresh
+### 7. FortiGate Firewall Hardware Refresh
 [**FortiRefresh-Upgrade**](#) – Led the design and execution of a FortiGate firewall refresh for a Canadian customer, replacing legacy hardware with newer models. Project included detailed infrastructure review, migration planning, and seamless cutovers with near-zero downtime.
 
 Key Contributions:
@@ -155,7 +172,7 @@ Executed hardware replacement and policy migration with near-zero downtime.
 Improved network performance and lifecycle compliance while reducing operational overhead.
 
 
-### 7. Vulnerability Management Solution Deployment
+### 8. Vulnerability Management Solution Deployment
 [**AutoSec-Vuln-Deploy**](#) – Led end-to-end deployment of a vulnerability management solution for a European automotive firm. Oversaw technical planning, production rollout, and ongoing operations including CVSS-based vulnerability triage, regular scanning, and stakeholder-driven remediation based on risk and business impact.
 
 Key Contributions:
@@ -171,7 +188,7 @@ Collaborated with cross-functional teams to drive risk-based remediation plans.
 Owned post-deployment operations, ensuring continuous improvement in security posture.
 
 
-### 8. Acalvio Deception Platform Deployment
+### 9. Acalvio Deception Platform Deployment
 [**Deception-Honeypots**](#) – Led technical implementation of the Acalvio Deception solution for a customer environment, working alongside vendor professional services. Deployed tailored decoys, integrated with SIEM, and contributed to deployment documentation to enhance lateral threat detection capabilities.
 
 Key Contributions:
@@ -194,6 +211,7 @@ Strengthened the organization's threat detection and response posture against in
 - CompTIA Security+  
 - Google Cloud Digital Leader  
 - Zscaler Zero Trust Certified Architect  
+
 
 ## Let’s Connect
 - 📧 **Email:** sarath.haridas@gmail.com  
