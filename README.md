@@ -3,13 +3,61 @@
 **CISSP-certified cybersecurity professional** with 15+ years of experience securing complex, hybrid environments across cloud and on-premises infrastructures. Adept at leading global security programs, including security architecture, vulnerability management, incident response, cloud security posture and security solution design. Proven ability to influence cross-functional teams, develop and enforce security policy, and align cybersecurity strategies with business risk. .
 
 ## 🚀 Expertise
-- **Cloud Security**: AWS, Azure, GCP — CIS Benchmark Compliance, CloudSec, Wiz
-- **Endpoint & Detection Engineering**: CrowdStrike, Rapid7 EDR
-- **Network Security**: Fortinet, Palo Alto, VPN, SD-WAN
-- **Vulnerability Management**: Rapid7 InsightVM, AppSec, CVSS Risk Prioritization
-- **Incident Response & Automation**: Playbooks, SOAR integrations, AI-driven SOC GPTs
-- **Compliance & Frameworks**: NIST, ISO 27001, ITSG-33, GDPR
-- **Identity & Access Management**: Okta, Azure AD, RBAC, Zero Trust
+Strategic Security Leadership
+
+Development and enforcement of security strategies, policies, and standards.
+
+Experience aligning cybersecurity with business objectives and compliance frameworks.
+
+Security governance and risk management.
+
+🏗️ Security Architecture & Design
+
+Design and implementation of secure architectures in hybrid and multi-cloud environments.
+
+Reference architectures for Zero Trust, SASE, and cloud-native security.
+
+Secure-by-design principles and threat modeling.
+
+⚙️ Vulnerability & Threat Management
+
+Enterprise-scale vulnerability management (e.g., Rapid7 InsightVM).
+
+Risk prioritization and remediation tracking via KPI dashboards.
+
+Threat detection, incident response playbooks, and continuous exposure management.
+
+🌐 Cloud & Network Security
+
+Security architecture across AWS, Azure, and GCP.
+
+Deployment of WAFs, NGFWs, and cloud-native security controls.
+
+SD-WAN and network segmentation for distributed environments.
+
+📋 Compliance & Frameworks
+
+Deep familiarity with NIST CSF, NIST SP 800-53, ISO 27001, CIS Controls, and GDPR.
+
+Experience conducting internal audits, DPIAs, and managing vendor risk.
+
+Security documentation and standard development (e.g., incident/vulnerability management standards).
+
+🔄 Security Operations & Incident Management
+
+SOC leadership and coordination.
+
+Playbook development and security operations process optimization.
+
+Automation in incident response workflows (e.g., GPTs to reduce MTTR).
+
+💼 Cross-Functional & Client Engagement
+
+Advisory experience in Managed Security Service Provider (MSSP) environments.
+
+Leading security initiatives across IT, compliance, and engineering teams.
+
+Client-facing security consulting and solution architecture.
 
 ## 📌 Featured Projects
 Here are some of the security projects I’ve worked on:
