@@ -62,7 +62,7 @@ Client-facing security consulting and solution architecture.
 ## 📌 Featured Projects
 Here are some of the security projects I’ve worked on:
 
-**Policy & Compliance Documentation Projects**
+[**Policy & Compliance Documentation Projects**]
 
 ### 1. Security Standards Documentation Project
 [**NIST-Based Security Standards**](#) – As part of my role in GLS, I authored comprehensive Incident Management and Vulnerability Management standard documentation, aligning with NIST SP 800-series guidelines and the organization's overarching security strategy and policies. This initiative established a consistent and actionable framework for handling incidents and managing vulnerabilities across hybrid infrastructure, reinforcing regulatory compliance and operational resilience.
