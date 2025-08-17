@@ -62,7 +62,6 @@ Client-facing security consulting and solution architecture.
 ## 📌 Featured Projects
 Here are some of the security projects I’ve worked on:
 
-####Policy & Compliance Documentation Projects
 
 ### 1. Security Standards Documentation Project
 [**NIST-Based Security Standards**](#) – As part of my role in GLS, I authored comprehensive Incident Management and Vulnerability Management standard documentation, aligning with NIST SP 800-series guidelines and the organization's overarching security strategy and policies. This initiative established a consistent and actionable framework for handling incidents and managing vulnerabilities across hybrid infrastructure, reinforcing regulatory compliance and operational resilience.
@@ -75,8 +74,6 @@ Ensured integration with existing security architecture and incident response wo
 
 Drove alignment across security operations, compliance, and IT teams, enhancing cross-functional clarity and execution.
 
-
-**Security Architecture & Network Design Projects**
 
 ### 2. Network Segmentation Architecture
 [**FortiSeg-NetDesign**](#) – Designed and implemented LAN/WAN network segmentation for a U.S.-based enterprise using FortiGate firewalls. Leveraged FortiAnalyzer for log analysis to validate segmentation strategy, aligning with industry standards to protect critical assets and reduce attack surfaces.
@@ -93,6 +90,7 @@ Reduced attack surface and minimized lateral movement across the network.
 
 Achieved cost and time savings by improving operational efficiency and threat containment.
 
+
 ### 3. Skybox Security Platform Deployment
 [**Skybox-Integration**](#) – Designed and deployed the Skybox Security platform for a Canadian enterprise, integrating firewall assurance, network assurance, and change management modules. Enabled automated firewall rule validation and streamlined change processes across the security infrastructure.
 
@@ -108,6 +106,7 @@ Implemented automated firewall rule checks, reducing manual errors and approval 
 
 Enhanced overall security governance and operational efficiency in firewall management.
 
+
 ### 4. Fortinet SD-WAN Deployment Across 200 Sites
 [**FortiSDWAN-Rollout**](#) – Leading the implementation of FortiGate firewalls with SD-WAN for 200+ customer locations. Project focuses on scalable deployment using FortiManager, with successful MPLS replacement delivering significant cost savings.
 
@@ -122,6 +121,7 @@ Performed site cutovers and resolved complex issues involving SD-WAN and securit
 Enabled the customer to phase out legacy MPLS infrastructure, achieving major operational cost reductions.
 
 Ensured performance optimization and security enforcement across all branch deployments.
+
 
 ### 5. Firewall Migration: Cisco ASA to Palo Alto
 [**ASA-to-PA-Migration**](#) – Led the technical design and implementation of a firewall migration project for a Canadian customer, replacing legacy Cisco ASA firewalls with Palo Alto NGFWs. Project involved in-depth infrastructure analysis, stakeholder coordination, and successful cutover execution.
@@ -155,9 +155,6 @@ Executed hardware replacement and policy migration with near-zero downtime.
 Improved network performance and lifecycle compliance while reducing operational overhead.
 
 
-
-**Vulnerability & Risk Management Projects**
-
 ### 7. Vulnerability Management Solution Deployment
 [**AutoSec-Vuln-Deploy**](#) – Led end-to-end deployment of a vulnerability management solution for a European automotive firm. Oversaw technical planning, production rollout, and ongoing operations including CVSS-based vulnerability triage, regular scanning, and stakeholder-driven remediation based on risk and business impact.
 
@@ -173,8 +170,6 @@ Collaborated with cross-functional teams to drive risk-based remediation plans.
 
 Owned post-deployment operations, ensuring continuous improvement in security posture.
 
-
-**Threat Detection & Incident Response**
 
 ### 8. Acalvio Deception Platform Deployment
 [**Deception-Honeypots**](#) – Led technical implementation of the Acalvio Deception solution for a customer environment, working alongside vendor professional services. Deployed tailored decoys, integrated with SIEM, and contributed to deployment documentation to enhance lateral threat detection capabilities.
