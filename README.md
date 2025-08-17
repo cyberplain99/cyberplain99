@@ -12,10 +12,18 @@
 - **Identity & Access Management**: Okta, Azure AD, RBAC, Zero Trust
 
 ## 📌 Featured Projects
-Here are some of the security-focused repositories I’ve built or contributed to:
+Here are some of the security projects I’ve worked on:
 
-### 🔍 Vulnerability Management Automation
-[**Rapid7-VM-Automation**](#) – Python scripts to pull vulnerability data via Rapid7 API, prioritize by CVSS score, and generate risk reports.
+### 🔍 Security Standards Documentation Project
+[**NIST-Based Security Standards**](#) – As part of my role in GLS, I authored comprehensive Incident Management and Vulnerability Management standard documentation, aligning with NIST SP 800-series guidelines and the organization's overarching security strategy and policies. This initiative established a consistent and actionable framework for handling incidents and managing vulnerabilities across hybrid infrastructure, reinforcing regulatory compliance and operational resilience.
+
+Key contributions:
+
+Developed documentation grounded in NIST best practices and tailored to enterprise-specific threat models.
+
+Ensured integration with existing security architecture and incident response workflows.
+
+Drove alignment across security operations, compliance, and IT teams, enhancing cross-functional clarity and execution.
 
 ### 🛡️ Cloud Security Compliance Checker
 [**Cloud-CIS-Benchmark**](#) – Terraform and Python-based tool for checking AWS/Azure/GCP configurations against CIS benchmarks.
